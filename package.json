@@ -13,3 +13,11 @@
     "start": "next start"
   }
 }
+{
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "@alicloud/oss-sdk": "^6.18.0",
+    "@alicloud/tea-util": "^1.0.9",
+    "@alicloud/tingwu-20230930": "^1.0.0"
+  }
+}
