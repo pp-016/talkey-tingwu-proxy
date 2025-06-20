@@ -12,7 +12,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "@alicloud/tingwu-20230930": "^1.0.2",
-    "@alicloud/openapi-client": "^1.0.1",
+    "@alicloud/openapi-client": "^1.3.1",
     "ali-oss": "^6.17.1"
   }
 }
