@@ -1,8 +1,18 @@
 {
-  "name": "tingwu-proxy-v2",
+  "name": "talkey-tingwu-proxy",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
   "dependencies": {
-    "next": "14.0.0"
+    "next": "14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@alicloud/tingwu-20230930": "^1.0.2",
+    "@alicloud/openapi-client": "^1.0.1",
+    "ali-oss": "^6.17.1"
   }
 }
